@@ -1,2 +1,5 @@
-.e line1\nline2
+e.
+
+
+\nline2
 line3
